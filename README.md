@@ -4,7 +4,7 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange.svg)](https://scikit-learn.org/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg)](https://www.docker.com/)
 [![Flask](https://img.shields.io/badge/Flask-3.0+-black.svg)](https://flask.palletsprojects.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 
 > 🤖 Application ML complète pour prédire et analyser la valeur marchande des joueurs de football professionnel. Interface web moderne avec comparaison, simulation et projection de carrière.
 
@@ -269,13 +269,9 @@ Les contributions sont les bienvenues !
 4. Push (`git push origin feature/AmazingFeature`)
 5. Ouvrir une Pull Request
 
-## 📄 License
+## � Auteur
 
-MIT License - Voir [LICENSE](LICENSE)
-
-## 👥 Auteurs
-
-- **CheikhAiLabs** - [GitHub](https://github.com/CheikhAiLabs)
+**Cheikh-GPT**
 
 ---
 
