@@ -1,0 +1,15 @@
+services:
+  football-predictor:
+    build:
+      context: .
+      dockerfile: app/Dockerfile
+    container_name: football-market-predictor
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./models:/app/models:ro
+      - ./data:/app/data:ro
+      - ./app:/app/app:ro
+    environment:
+      - FLASK_ENV=production
+    restart: unless-stopped
